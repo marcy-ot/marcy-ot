@@ -1,21 +1,15 @@
 ## Hi there 👋
 
-## Skills
-### Languages
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+![](https://github-readme-stats.vercel.app/api?username=marcy-ot&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcy-ot&theme=calm_pink&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcy-ot&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### Database
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcy-ot&theme=kimbie_dark)](https://github.com/marcy-ot/github-profile-trophy)
 
-### Front-End-Framework
-<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+---
+[![](https://visitcount.itsvg.in/api?id=marcy-ot&icon=0&color=13)](https://visitcount.itsvg.in)
 
-### Back-End_Framework
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> 
-
-### Mobile-Framework
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **marcy-ot/marcy-ot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
