@@ -1,13 +1,13 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=marcy-ot&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/mabo)
+
 ![](https://github-readme-stats.vercel.app/api?username=marcy-ot&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcy-ot&theme=calm_pink&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcy-ot&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcy-ot&theme=kimbie_dark)](https://github.com/marcy-ot/github-profile-trophy)
-
----
-[![](https://visitcount.itsvg.in/api?id=marcy-ot&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
